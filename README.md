@@ -11,7 +11,7 @@ I am a passionate cybersecurity enthusiast with a background in Electronics Engi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Security Analysis and Intrusion Prevention System (IPS) Implementation        | <a href="https://google.com">Detection Lab</a>|
+| Network Security Analysis and Intrusion Prevention System (IPS) Implementation        | <a href="https://github.com/JP-Portfolio/IDS-LAB/blob/main/README.md">IDS-LAB</a>|
 
 
 ## Tools
