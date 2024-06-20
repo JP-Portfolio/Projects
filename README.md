@@ -1,7 +1,7 @@
 # Hello, I'm Jay Patel
 <a href="https://www.linkedin.com/in/jay-patel-694237124/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Hello, and welcome to my cybersecurity portfolio! I am Jay Patel, and I am currently residing in Canada. I recently graduated with a cybersecurity postgraduate diploma from NBCC College Saint John, NB . As I embark on my professional journey, I invite you to explore my portfolio, showcasing my passion for securing digital landscapes. Through ongoing projects and skill development initiatives, I am committed to mastering the intricacies of cybersecurity to tackle tomorrow's challenges head-on.
+Hello, and welcome to my cybersecurity portfolio! I am Jay Patel, and I am currently residing in Canada. I recently graduated with a cybersecurity postgraduate diploma from NBCC College Saint John, NB. As I embark on my professional journey, I invite you to explore my portfolio, showcasing my passion for securing digital landscapes. Through ongoing projects and skill development initiatives, I am committed to mastering the intricacies of cybersecurity to tackle tomorrow's challenges head-on.
 
 ## Objective
 
@@ -74,6 +74,8 @@ I am a passionate cybersecurity enthusiast with a background in Electronics Engi
     <img src="https://img.shields.io/badge/-NPTEL_IoT-F9A602?style=for-the-badge&labelColor=grey" />
     <img src="https://img.shields.io/badge/-Qualys_VMDR-6EBAE3?style=for-the-badge&logo=qualys&logoColor=white" />
 </div>
+
+### Currently working on Hack The Box CDSA and CompTIA Security+
 
 ## Projects
 - IDS Lab
